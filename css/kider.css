@@ -732,7 +732,7 @@ header .join a {
 .learn-more .container .image0:hover,
 .learn-more .container .image1:hover,
 .learn-more .container .image2:hover {
-    outline-color: var(--main-color);
+    background-color: var(--main-color);
 }
 
 @media (max-width: 767px) {
